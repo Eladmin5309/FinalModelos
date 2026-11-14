@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package finalmodelos;
-
+import Interpreter.ServicioTarifas;
 /**
  *
  * @author Usuario
@@ -14,7 +14,8 @@ public class FinalModelos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        ServicioTarifas usuario = new ServicioTarifas();
+        usuario.Ejecutar();
     }
     
 }
