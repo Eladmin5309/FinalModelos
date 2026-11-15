@@ -4,6 +4,8 @@
  */
 package finalmodelos;
 
+import finalmodelos.visitor.*;
+
 /**
  *
  * @author Usuario
@@ -14,7 +16,7 @@ public class FinalModelos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+    	new PruebasDeTransporte().ejecutarTodas();
     }
     
 }
