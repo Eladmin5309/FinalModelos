@@ -3,7 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Interpreter;
-import vista.*;
+import salida.VistaConsola;
+import salida.Vista;
 
 public class ServicioTarifas {
 

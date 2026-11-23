@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package vista;
+package entrada;
 
 /**
  *
  * @author Usuario
  */
-public interface Vista {
-    public void mostrarMensaje(String mensaje);
+public interface Entrada {
+    public String capturarDato();
 }
