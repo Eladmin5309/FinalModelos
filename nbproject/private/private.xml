@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/finalmodelos/FinalModelos.java</file>
             <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/salida/VistaConsola.java</file>
-            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/entrada/Entrada.java</file>
-            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/entrada/EntradaConsola.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/Singleton/ClienteSingleton.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/Singleton/CentralDespachoSingleton.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/salida/Vista.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/FinalModelos/src/finalmodelos/FinalModelos.java</file>
         </group>
     </open-files>
 </project-private>

@@ -10,4 +10,5 @@ package entrada;
  */
 public interface Entrada {
     public String capturarDato();
+    public String capturarDatoRango(int a, int b);
 }
