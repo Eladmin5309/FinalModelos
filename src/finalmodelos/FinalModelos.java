@@ -3,13 +3,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package finalmodelos;
+
 import Bridge.ClienteBridge;
 import Builder.ClienteBuilder;
+import ChainOfResponsibility.ClienteChainOfResponsibility;
 import Decorator.ClienteDecorator;
 import FactoryMethod.ClienteFactoryMethod;
 import Flyweight.ClienteFlyweight;
 import Interpreter.ServicioTarifas;
+import Iterator.ClienteIterator;
 import Singleton.ClienteSingleton;
+
 /**
  *
  * @author Usuario
@@ -20,7 +24,7 @@ public class FinalModelos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+        
     }
-    
+
 }
